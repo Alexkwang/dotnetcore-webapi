@@ -1,0 +1,10 @@
+C:\demos\webapi\bin\Debug\netcoreapp1.1\webapi.deps.json
+C:\demos\webapi\bin\Debug\netcoreapp1.1\webapi.runtimeconfig.json
+C:\demos\webapi\bin\Debug\netcoreapp1.1\webapi.runtimeconfig.dev.json
+C:\demos\webapi\bin\Debug\netcoreapp1.1\webapi.dll
+C:\demos\webapi\bin\Debug\netcoreapp1.1\webapi.pdb
+C:\demos\webapi\obj\Debug\netcoreapp1.1\webapi.AssemblyInfo.cs
+C:\demos\webapi\obj\Debug\netcoreapp1.1\webapi.dll
+C:\demos\webapi\obj\Debug\netcoreapp1.1\webapi.pdb
+C:\demos\webapi\obj\Debug\netcoreapp1.1\webapi.csprojResolveAssemblyReference.cache
+C:\demos\webapi\bin\Debug\netcoreapp1.1\webapi.xml
