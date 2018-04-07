@@ -1,0 +1,12 @@
+D:\workspace\demo\test\dotnetcore-webapi\bin\Debug\netcoreapp2.0\webapi.deps.json
+D:\workspace\demo\test\dotnetcore-webapi\bin\Debug\netcoreapp2.0\webapi.runtimeconfig.json
+D:\workspace\demo\test\dotnetcore-webapi\bin\Debug\netcoreapp2.0\webapi.runtimeconfig.dev.json
+D:\workspace\demo\test\dotnetcore-webapi\bin\Debug\netcoreapp2.0\webapi.dll
+D:\workspace\demo\test\dotnetcore-webapi\bin\Debug\netcoreapp2.0\webapi.pdb
+D:\workspace\demo\test\dotnetcore-webapi\bin\Debug\netcoreapp2.0\webapi.xml
+D:\workspace\demo\test\dotnetcore-webapi\obj\Debug\netcoreapp2.0\webapi.csprojResolveAssemblyReference.cache
+D:\workspace\demo\test\dotnetcore-webapi\obj\Debug\netcoreapp2.0\webapi.csproj.CoreCompileInputs.cache
+D:\workspace\demo\test\dotnetcore-webapi\obj\Debug\netcoreapp2.0\webapi.AssemblyInfoInputs.cache
+D:\workspace\demo\test\dotnetcore-webapi\obj\Debug\netcoreapp2.0\webapi.AssemblyInfo.cs
+D:\workspace\demo\test\dotnetcore-webapi\obj\Debug\netcoreapp2.0\webapi.dll
+D:\workspace\demo\test\dotnetcore-webapi\obj\Debug\netcoreapp2.0\webapi.pdb
